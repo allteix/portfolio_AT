@@ -1,4 +1,4 @@
-Bonjour,
+Bonjour ☀️
 
 Je me présente, je m’appelle Allison TEIXEIRA et j’ai 35 ans. 
 
@@ -15,4 +15,4 @@ d’OpenClassrooms afin que l’apprentissage puisse se faire à mon rythme, tou
 réalisés pendant cette formation et les compétences acquises qui leurs sont associées. Je vous laisse donc naviguer parmi les différentes pages pour en découvrir 
 un peu plus.
 
-Bon voyage !
+Bon voyage ! ✈️
