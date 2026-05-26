@@ -12,8 +12,8 @@ Pour cela, j’ai dû démontrer mes capacité à gérer et organiser un projet 
 	- un tableau de bord présentant mon profil et mes compétences.
 
 Le client avait également demandé de produire 2 livrables attestant de mes compétences à accompagner et former les équipes sur la prise en main d’un outil métier :
-	- une guide de formation pour la création d’un graphique avec un outil de Data Visualisation (Power BI)
-	- une vidéo de formation appuyant le guide pour la création du graphique 
+	- une guide de formation pour la création d’un graphique avec un outil de Data Visualisation (Power BI).
+	- une vidéo de formation appuyant le guide pour la création du graphique.
 
 Vous pourrez trouver tout ces livrables, produits  lors du projet, dans ce dossier, ainsi qu’un lien vers mon portfolio en ligne.
 
