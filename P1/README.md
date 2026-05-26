@@ -7,4 +7,5 @@ dans les documents, que vous pourrez consulter dans ce dossier :
   - Une fiche de découverte des attendus du métier contenant les soft skills identifiées et comment les mettre en pratique.
 
 Pendant ce 1er projet, les compétences acquises et les soft skills mises en pratique ont donc été :
+
 <img width="1324" height="235" alt="image" src="https://github.com/user-attachments/assets/5fa487f8-9ede-40ad-8e12-1bdc5c4bef92" />
