@@ -14,4 +14,5 @@ Vous pourrez trouver les 2 livrables produits dans ce dossier :
 
 Lors de ce projet, les compétences acquises et les soft skills mises en pratique ont donc été :
 
-<img width="1324" height="414" alt="image" src="https://github.com/user-attachments/assets/4feb2f10-5b3d-4a7b-8768-b6e7ed01bfa3" />
+<img width="1324" height="414" alt="image" src="https://github.com/user-attachments/assets/5b81c510-95a2-452d-abdc-bdfb3fe66662" />
+
