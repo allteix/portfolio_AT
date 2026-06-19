@@ -20,6 +20,7 @@ Bon voyage ! ✈️
 
 **Sommaire :**
     * P1 : Prendre en main la formation de Data Analyst
+    
     * P2 : Faire une analyse de ventes pour un e-commerce (Excel)
     * P3 : Requêter une base de données avec SQL
     * P4 : Réaliser une étude de santé publique avec Python
