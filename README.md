@@ -19,17 +19,18 @@ Bon voyage ! ✈️
 
 
 **Sommaire :**
-    * P1 : Prendre en main la formation de Data Analyst
-    
-    * P2 : Faire une analyse de ventes pour un e-commerce (Excel)
-    * P3 : Requêter une base de données avec SQL
-    * P4 : Réaliser une étude de santé publique avec Python
-    * P5 : Créer et utiliser une base de données immobilière avec SQL
-    * P6 : Optimiser la gestion des données d'une boutique avec Python
-    * P7 : Créer un tableau de bord dynamique avec Power BI pour visualiser l'avancement de projets
-    * P8 : Analyser des indicateurs de l'égalité femmes/hommes en respect du RGPD (Knime)
-    * P9 : Analyser les ventes d'une librairie avec Python
-    * P10 : Faire une étude sur l'eau potable (Power BI)
-    * P11 : Produire une étude de marché avec Python
-    * P12 : Détecter des faux billets avec Python
-    * P13 : Créer un portfolio de profesionnel de la data
+    * 
+    - P1 : Prendre en main la formation de Data Analyst
+    - P2 : Faire une analyse de ventes pour un e-commerce (Excel)
+    - P3 : Requêter une base de données avec SQL
+    - P4 : Réaliser une étude de santé publique avec Python
+    - P5 : Créer et utiliser une base de données immobilière avec SQL
+    - P6 : Optimiser la gestion des données d'une boutique avec Python
+    - P7 : Créer un tableau de bord dynamique avec Power BI pour visualiser l'avancement de projets
+    - P8 : Analyser des indicateurs de l'égalité femmes/hommes en respect du RGPD (Knime)
+    - P9 : Analyser les ventes d'une librairie avec Python
+    - P10 : Faire une étude sur l'eau potable (Power BI)
+    - P11 : Produire une étude de marché avec Python
+    - P12 : Détecter des faux billets avec Python
+    - P13 : Créer un portfolio de profesionnel de la data
+
