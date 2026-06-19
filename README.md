@@ -18,8 +18,7 @@ un peu plus.
 Bon voyage ! ✈️
 
 
-**Sommaire :**
-    *  
+**Sommaire :**  
     
     - P1 : Prendre en main la formation de Data Analyst
     - P2 : Faire une analyse de ventes pour un e-commerce (Excel)
